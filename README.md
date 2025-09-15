@@ -1,1 +1,1 @@
-Berisikan berbagai tools yang dapat digunakan untuk mengelola server kalian.
+Berisikan tools yang dapat digunakan untuk mengelola server kalian.
