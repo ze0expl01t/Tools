@@ -140,7 +140,7 @@ unblock_ip() {
 while true; do
     clear
     echo -e "${BLUE}=================================${NC}"
-    echo -e "${BLUE}    IPTABLES IP MANAGER${NC}"
+    echo -e "${BLUE}    ze0expl01t ~ IPTABLES IP MANAGER${NC}"
     echo -e "${BLUE}=================================${NC}"
     echo -e "1) ${GREEN}Block an IP address${NC}"
     echo -e "2) ${RED}Unblock an IP address${NC}"
